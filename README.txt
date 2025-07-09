@@ -21,7 +21,6 @@ Instalasi Aplikasi Cerpen Kita :
 5. Ubah konfigurasi database di file config.php untuk menghubungkan aplikasi dengan database.
 6. Buka browser dengan mengakses URL http://localhost/cerpenkita (untuk XAMPP) atau http://localhost/cerpenkita (untuk WAMP).
 
-Github Repo :
-- https://github.com/RafliF1/CerpenKita.git
+
 
 
